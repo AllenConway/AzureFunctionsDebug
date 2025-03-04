@@ -1,0 +1,1 @@
+This is a sample .NET 8 Azure Functions demo app showing how to debug functions that use the more modern Isolated Worker Model
